@@ -1,0 +1,17 @@
+2019-02-28 19:02:30,767 - BrowserEngine- INFO - 你选择的是 Chrome 浏览器.
+2019-02-28 19:02:30,767 - BrowserEngine- INFO - 这个服务器的地址是:http://127.0.0.1/forum.php
+2019-02-28 19:02:37,490 - BrowserEngine- INFO - 开始谷歌浏览器
+2019-02-28 19:02:40,876 - BrowserEngine- INFO - 打开网址:http://127.0.0.1/forum.php
+2019-02-28 19:02:42,007 - BrowserEngine- INFO - 窗口最大化
+2019-02-28 19:02:42,007 - BrowserEngine- INFO - 隐形等待时间为10秒钟
+2019-02-28 19:02:42,428 - BasePage- INFO - 输入内容admin
+2019-02-28 19:02:42,600 - BasePage- INFO - 输入内容13333486358LY
+2019-02-28 19:02:42,726 - BasePage- INFO - click
+2019-02-28 19:02:46,624 - BasePage- INFO - click
+2019-02-28 19:02:48,330 - BasePage- INFO - click
+2019-02-28 19:02:49,375 - BasePage- INFO - click
+2019-02-28 19:02:52,736 - BasePage- INFO - 输入内容Do you like apple
+2019-02-28 19:02:52,899 - BasePage- INFO - 输入内容Yes
+2019-02-28 19:02:53,030 - BasePage- INFO - 输入内容No
+2019-02-28 19:02:53,429 - BasePage- INFO - click
+2019-02-28 19:03:01,131 - BrowserEngine- INFO - 关闭浏览器

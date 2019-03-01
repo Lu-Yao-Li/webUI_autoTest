@@ -1,0 +1,24 @@
+2019-02-28 19:38:55,165 - BrowserEngine- INFO - 你选择的是 Chrome 浏览器.
+2019-02-28 19:38:55,175 - BrowserEngine- INFO - 这个服务器的地址是:http://127.0.0.1/forum.php
+2019-02-28 19:38:57,656 - BrowserEngine- INFO - 开始谷歌浏览器
+2019-02-28 19:38:59,834 - BrowserEngine- INFO - 打开网址:http://127.0.0.1/forum.php
+2019-02-28 19:39:00,960 - BrowserEngine- INFO - 窗口最大化
+2019-02-28 19:39:00,960 - BrowserEngine- INFO - 隐形等待时间为10秒钟
+2019-02-28 19:39:01,455 - BasePage- INFO - 输入内容admin
+2019-02-28 19:39:01,648 - BasePage- INFO - 输入内容13333486358LY
+2019-02-28 19:39:01,755 - BasePage- INFO - click
+2019-02-28 19:39:05,283 - BasePage- INFO - click
+2019-02-28 19:39:06,007 - BasePage- INFO - click
+2019-02-28 19:39:06,664 - BasePage- INFO - click
+2019-02-28 19:39:07,049 - BasePage- INFO - 输入内容Do you like apple
+2019-02-28 19:39:07,235 - BasePage- INFO - 输入内容Yes
+2019-02-28 19:39:07,365 - BasePage- INFO - 输入内容No
+2019-02-28 19:39:07,526 - BasePage- INFO - click
+2019-02-28 19:39:17,646 - BasePage- INFO - click
+2019-02-28 19:39:18,755 - BasePage- INFO - click
+2019-02-28 19:39:18,826 - BasePage- ERROR - Failed to clear is input box with 'WebElement' object has no attribute 'gettext'
+2019-02-28 19:39:18,872 - BasePage- ERROR - Failed to clear is input box with 'WebElement' object has no attribute 'gettext'
+2019-02-28 19:39:18,920 - BasePage- ERROR - Failed to clear is input box with 'WebElement' object has no attribute 'gettext'
+2019-02-28 19:39:18,972 - BasePage- ERROR - Failed to clear is input box with 'WebElement' object has no attribute 'gettext'
+2019-02-28 19:39:19,021 - BasePage- ERROR - Failed to clear is input box with 'WebElement' object has no attribute 'gettext'
+2019-02-28 19:39:31,284 - BrowserEngine- INFO - 关闭浏览器

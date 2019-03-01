@@ -1,0 +1,17 @@
+2019-02-28 17:59:50,562 - BrowserEngine- INFO - 你选择的是 Chrome 浏览器.
+2019-02-28 17:59:50,562 - BrowserEngine- INFO - 这个服务器的地址是:http://127.0.0.1/forum.php
+2019-02-28 17:59:53,374 - BrowserEngine- INFO - 开始谷歌浏览器
+2019-02-28 17:59:55,350 - BrowserEngine- INFO - 打开网址:http://127.0.0.1/forum.php
+2019-02-28 17:59:56,485 - BrowserEngine- INFO - 窗口最大化
+2019-02-28 17:59:56,485 - BrowserEngine- INFO - 隐形等待时间为10秒钟
+2019-02-28 17:59:56,922 - BasePage- INFO - 输入内容admin
+2019-02-28 17:59:57,101 - BasePage- INFO - 输入内容13333486358LY
+2019-02-28 17:59:57,200 - BasePage- INFO - click
+2019-02-28 18:00:01,163 - BasePage- INFO - click
+2019-02-28 18:00:01,902 - BasePage- INFO - click
+2019-02-28 18:00:02,623 - BasePage- INFO - click
+2019-02-28 18:00:02,981 - BasePage- INFO - 输入内容Do you like apple
+2019-02-28 18:00:03,196 - BasePage- INFO - 输入内容Yes
+2019-02-28 18:00:03,313 - BasePage- INFO - 输入内容No
+2019-02-28 18:00:18,900 - BasePage- ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-28 18:00:24,160 - BrowserEngine- INFO - 关闭浏览器
