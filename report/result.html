@@ -189,9 +189,9 @@ function showOutput(id, name) {
 
 <div class='heading'>
 <h1>论坛测试报告</h1>
-<p class='attribute'><strong>Start Time:</strong> 2019-03-03 14:12:15</p>
-<p class='attribute'><strong>Duration:</strong> 0:00:09.931938</p>
-<p class='attribute'><strong>Status:</strong> Error 4</p>
+<p class='attribute'><strong>Start Time:</strong> 2019-03-03 15:45:59</p>
+<p class='attribute'><strong>Duration:</strong> 0:03:37.649597</p>
+<p class='attribute'><strong>Status:</strong> Pass 4</p>
 
 <p class='description'>用例执行情况</p>
 </div>
@@ -221,288 +221,68 @@ function showOutput(id, name) {
     <td>View</td>
 </tr>
 
-<tr class='errorClass'>
+<tr class='passClass'>
     <td>testsuite.test_forum.FomerSearch</td>
     <td>1</td>
-    <td>0</td>
-    <td>0</td>
     <td>1</td>
+    <td>0</td>
+    <td>0</td>
     <td><a href="javascript:showClassDetail('c1',1)">Detail</a></td>
 </tr>
 
-<tr id='ft1.1' class='none'>
-    <td class='errorCase'><div class='testcase'>test_fomur_search</div></td>
-    <td colspan='5' align='center'>
-
-    <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft1.1')" >
-        error</a>
-
-    <div id='div_ft1.1' class="popup_window">
-        <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_ft1.1').style.display = 'none' " >
-           [x]</a>
-        </div>
-        <pre>
-        
-ft1.1: Traceback (most recent call last):
-  File "E:/自动化软件测试/课堂练习/2.27forum\testsuite\base_testcase.py", line 6, in setUp
-    self.driver=browser.open_browser()
-  File "E:/自动化软件测试/课堂练习/2.27forum\framework\browser_engine.py", line 29, in open_browser
-    self.driver=webdriver.Chrome(self.chrome_driver_path)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 81, in __init__
-    desired_capabilities=desired_capabilities)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 157, in __init__
-    self.start_session(capabilities, browser_profile)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 252, in start_session
-    response = self.execute(Command.NEW_SESSION, parameters)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
-    self.error_handler.check_response(response)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
-    raise exception_class(message, screen, stacktrace)
-selenium.common.exceptions.WebDriverException: Message: unknown error: cannot find Chrome binary
-  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
-
-Traceback (most recent call last):
-  File "E:/自动化软件测试/课堂练习/2.27forum\testsuite\base_testcase.py", line 6, in setUp
-    self.driver=browser.open_browser()
-  File "E:/自动化软件测试/课堂练习/2.27forum\framework\browser_engine.py", line 29, in open_browser
-    self.driver=webdriver.Chrome(self.chrome_driver_path)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 81, in __init__
-    desired_capabilities=desired_capabilities)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 157, in __init__
-    self.start_session(capabilities, browser_profile)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 252, in start_session
-    response = self.execute(Command.NEW_SESSION, parameters)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
-    self.error_handler.check_response(response)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
-    raise exception_class(message, screen, stacktrace)
-selenium.common.exceptions.WebDriverException: Message: unknown error: cannot find Chrome binary
-  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
-
-
-
-        </pre>
-    </div>
-    <!--css div popup end-->
-
-    </td>
+<tr id='pt1.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_fomur_search</div></td>
+    <td colspan='5' align='center'>pass</td>
 </tr>
 
-<tr class='errorClass'>
+<tr class='passClass'>
     <td>testsuite.test_delete.DeleteTest</td>
     <td>1</td>
-    <td>0</td>
-    <td>0</td>
     <td>1</td>
+    <td>0</td>
+    <td>0</td>
     <td><a href="javascript:showClassDetail('c2',1)">Detail</a></td>
 </tr>
 
-<tr id='ft2.1' class='none'>
-    <td class='errorCase'><div class='testcase'>test_delete</div></td>
-    <td colspan='5' align='center'>
-
-    <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft2.1')" >
-        error</a>
-
-    <div id='div_ft2.1' class="popup_window">
-        <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_ft2.1').style.display = 'none' " >
-           [x]</a>
-        </div>
-        <pre>
-        
-ft2.1: Traceback (most recent call last):
-  File "E:/自动化软件测试/课堂练习/2.27forum\testsuite\base_testcase.py", line 6, in setUp
-    self.driver=browser.open_browser()
-  File "E:/自动化软件测试/课堂练习/2.27forum\framework\browser_engine.py", line 29, in open_browser
-    self.driver=webdriver.Chrome(self.chrome_driver_path)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 81, in __init__
-    desired_capabilities=desired_capabilities)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 157, in __init__
-    self.start_session(capabilities, browser_profile)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 252, in start_session
-    response = self.execute(Command.NEW_SESSION, parameters)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
-    self.error_handler.check_response(response)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
-    raise exception_class(message, screen, stacktrace)
-selenium.common.exceptions.WebDriverException: Message: unknown error: cannot find Chrome binary
-  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
-
-Traceback (most recent call last):
-  File "E:/自动化软件测试/课堂练习/2.27forum\testsuite\base_testcase.py", line 6, in setUp
-    self.driver=browser.open_browser()
-  File "E:/自动化软件测试/课堂练习/2.27forum\framework\browser_engine.py", line 29, in open_browser
-    self.driver=webdriver.Chrome(self.chrome_driver_path)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 81, in __init__
-    desired_capabilities=desired_capabilities)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 157, in __init__
-    self.start_session(capabilities, browser_profile)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 252, in start_session
-    response = self.execute(Command.NEW_SESSION, parameters)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
-    self.error_handler.check_response(response)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
-    raise exception_class(message, screen, stacktrace)
-selenium.common.exceptions.WebDriverException: Message: unknown error: cannot find Chrome binary
-  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
-
-
-
-        </pre>
-    </div>
-    <!--css div popup end-->
-
-    </td>
+<tr id='pt2.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_delete</div></td>
+    <td colspan='5' align='center'>pass</td>
 </tr>
 
-<tr class='errorClass'>
+<tr class='passClass'>
     <td>testsuite.test_search.SearchTest</td>
     <td>1</td>
-    <td>0</td>
-    <td>0</td>
     <td>1</td>
+    <td>0</td>
+    <td>0</td>
     <td><a href="javascript:showClassDetail('c3',1)">Detail</a></td>
 </tr>
 
-<tr id='ft3.1' class='none'>
-    <td class='errorCase'><div class='testcase'>test_search</div></td>
-    <td colspan='5' align='center'>
-
-    <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft3.1')" >
-        error</a>
-
-    <div id='div_ft3.1' class="popup_window">
-        <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_ft3.1').style.display = 'none' " >
-           [x]</a>
-        </div>
-        <pre>
-        
-ft3.1: Traceback (most recent call last):
-  File "E:/自动化软件测试/课堂练习/2.27forum\testsuite\base_testcase.py", line 6, in setUp
-    self.driver=browser.open_browser()
-  File "E:/自动化软件测试/课堂练习/2.27forum\framework\browser_engine.py", line 29, in open_browser
-    self.driver=webdriver.Chrome(self.chrome_driver_path)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 81, in __init__
-    desired_capabilities=desired_capabilities)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 157, in __init__
-    self.start_session(capabilities, browser_profile)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 252, in start_session
-    response = self.execute(Command.NEW_SESSION, parameters)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
-    self.error_handler.check_response(response)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
-    raise exception_class(message, screen, stacktrace)
-selenium.common.exceptions.WebDriverException: Message: unknown error: cannot find Chrome binary
-  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
-
-Traceback (most recent call last):
-  File "E:/自动化软件测试/课堂练习/2.27forum\testsuite\base_testcase.py", line 6, in setUp
-    self.driver=browser.open_browser()
-  File "E:/自动化软件测试/课堂练习/2.27forum\framework\browser_engine.py", line 29, in open_browser
-    self.driver=webdriver.Chrome(self.chrome_driver_path)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 81, in __init__
-    desired_capabilities=desired_capabilities)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 157, in __init__
-    self.start_session(capabilities, browser_profile)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 252, in start_session
-    response = self.execute(Command.NEW_SESSION, parameters)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
-    self.error_handler.check_response(response)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
-    raise exception_class(message, screen, stacktrace)
-selenium.common.exceptions.WebDriverException: Message: unknown error: cannot find Chrome binary
-  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
-
-
-
-        </pre>
-    </div>
-    <!--css div popup end-->
-
-    </td>
+<tr id='pt3.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_search</div></td>
+    <td colspan='5' align='center'>pass</td>
 </tr>
 
-<tr class='errorClass'>
+<tr class='passClass'>
     <td>testsuite.test_vote.VoteTest</td>
     <td>1</td>
-    <td>0</td>
-    <td>0</td>
     <td>1</td>
+    <td>0</td>
+    <td>0</td>
     <td><a href="javascript:showClassDetail('c4',1)">Detail</a></td>
 </tr>
 
-<tr id='ft4.1' class='none'>
-    <td class='errorCase'><div class='testcase'>test_vote</div></td>
-    <td colspan='5' align='center'>
-
-    <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft4.1')" >
-        error</a>
-
-    <div id='div_ft4.1' class="popup_window">
-        <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_ft4.1').style.display = 'none' " >
-           [x]</a>
-        </div>
-        <pre>
-        
-ft4.1: Traceback (most recent call last):
-  File "E:/自动化软件测试/课堂练习/2.27forum\testsuite\base_testcase.py", line 6, in setUp
-    self.driver=browser.open_browser()
-  File "E:/自动化软件测试/课堂练习/2.27forum\framework\browser_engine.py", line 29, in open_browser
-    self.driver=webdriver.Chrome(self.chrome_driver_path)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 81, in __init__
-    desired_capabilities=desired_capabilities)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 157, in __init__
-    self.start_session(capabilities, browser_profile)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 252, in start_session
-    response = self.execute(Command.NEW_SESSION, parameters)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
-    self.error_handler.check_response(response)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
-    raise exception_class(message, screen, stacktrace)
-selenium.common.exceptions.WebDriverException: Message: unknown error: cannot find Chrome binary
-  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
-
-Traceback (most recent call last):
-  File "E:/自动化软件测试/课堂练习/2.27forum\testsuite\base_testcase.py", line 6, in setUp
-    self.driver=browser.open_browser()
-  File "E:/自动化软件测试/课堂练习/2.27forum\framework\browser_engine.py", line 29, in open_browser
-    self.driver=webdriver.Chrome(self.chrome_driver_path)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 81, in __init__
-    desired_capabilities=desired_capabilities)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 157, in __init__
-    self.start_session(capabilities, browser_profile)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 252, in start_session
-    response = self.execute(Command.NEW_SESSION, parameters)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
-    self.error_handler.check_response(response)
-  File "D:\pycharm\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
-    raise exception_class(message, screen, stacktrace)
-selenium.common.exceptions.WebDriverException: Message: unknown error: cannot find Chrome binary
-  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
-
-
-
-        </pre>
-    </div>
-    <!--css div popup end-->
-
-    </td>
+<tr id='pt4.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_vote</div></td>
+    <td colspan='5' align='center'>pass</td>
 </tr>
 
 <tr id='total_row'>
     <td>Total</td>
     <td>4</td>
-    <td>0</td>
-    <td>0</td>
     <td>4</td>
+    <td>0</td>
+    <td>0</td>
     <td>&nbsp;</td>
 </tr>
 </table>
