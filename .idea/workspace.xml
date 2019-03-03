@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cd98957-9eeb-4026-995d-d31c8ccf205c" name="Default Changelist" comment="" />
+    <list default="true" id="2cd98957-9eeb-4026-995d-d31c8ccf205c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/report/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/result.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,14 +34,14 @@
           <entry key="html" value="3" />
           <entry key="ini" value="6" />
           <entry key="log" value="15" />
-          <entry key="py" value="134" />
+          <entry key="py" value="135" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="3" />
           <entry key="PLAIN_TEXT" value="21" />
-          <entry key="Python" value="134" />
+          <entry key="Python" value="135" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -59,9 +61,18 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testsuite/test_all.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testsuite/test_vote.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
+            <state relative-caret-position="314">
               <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
               <folding>
                 <element signature="e#0#48#0" expanded="true" />
@@ -189,7 +200,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in test_vote.py">
+  <component name="RunManager" selected="Python.test_all">
+    <configuration name="test_all" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2.27forum" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsuite" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testsuite/test_all.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unittests for test_delete.DeleteTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="2.27forum" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -215,20 +247,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_delete.DeleteTest.test_delete&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for test_forum.FomerSearch.test_fomur_search" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="2.27forum" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsuite" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_forum.FomerSearch.test_fomur_search&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -261,19 +279,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Unittests for test_forum.FomerSearch.test_fomur_search" />
       <item itemvalue="Python tests.Unittests for test_delete.DeleteTest.test_delete" />
       <item itemvalue="Python tests.Unittests for test_search.SearchTest.test_search" />
       <item itemvalue="Python tests.Unittests in test_vote.py" />
       <item itemvalue="Python tests.Unittests for test_delete.DeleteTest" />
+      <item itemvalue="Python.test_all" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_all" />
         <item itemvalue="Python tests.Unittests in test_vote.py" />
         <item itemvalue="Python tests.Unittests for test_delete.DeleteTest.test_delete" />
         <item itemvalue="Python tests.Unittests for test_delete.DeleteTest" />
         <item itemvalue="Python tests.Unittests for test_search.SearchTest.test_search" />
-        <item itemvalue="Python tests.Unittests for test_forum.FomerSearch.test_fomur_search" />
       </list>
     </recent_temporary>
   </component>
@@ -323,14 +341,15 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16666667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.48006645" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.5754098" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -454,13 +473,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testsuite/test_all.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testsuite/test_forum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -491,11 +503,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testsuite/test_vote.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
+        <state relative-caret-position="314">
           <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
           <folding>
             <element signature="e#0#48#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuite/test_all.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
         </state>
       </provider>
     </entry>
