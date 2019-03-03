@@ -2,39 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cd98957-9eeb-4026-995d-d31c8ccf205c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework/browser_engine.py" beforeDir="false" afterPath="$PROJECT_DIR$/framework/browser_engine.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201902281751.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201902281752.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201902281754.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201902281757.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201902281759.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201902281800.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201902281802.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201902281803.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201902281804.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201902281805.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201902281902.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201902281903.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201902281904.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201902281912.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201902281935.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201902281938.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201902281943.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201902281945.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201902281947.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201902281952.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201902281954.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201902281956.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201902282000.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201902282004.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201902282008.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201902282031.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201902282032.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201902282039.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201902282042.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201902282047.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/report/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/result.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testsuite/test_all.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuite/test_all.py" afterDir="false" />
     </list>
@@ -81,13 +48,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="ini" value="140" />
-          <entry key="py" value="6816" />
+          <entry key="py" value="6834" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="140" />
-          <entry key="Python" value="6816" />
+          <entry key="Python" value="6834" />
         </counts>
       </usages-collector>
     </session>
@@ -97,11 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testsuite/test_all.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="21" column="61" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="61" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="27">
+              <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -151,8 +115,8 @@
         <option value="$PROJECT_DIR$/framework/browser_engine.py" />
         <option value="$PROJECT_DIR$/testsuite/base_testcase.py" />
         <option value="$PROJECT_DIR$/testsuite/search_by_ddt.py" />
-        <option value="$PROJECT_DIR$/testsuite/test_all.py" />
         <option value="$PROJECT_DIR$/config/config.ini" />
+        <option value="$PROJECT_DIR$/testsuite/test_all.py" />
       </list>
     </option>
   </component>
@@ -191,27 +155,11 @@
             <path>
               <item name="2.27forum" type="b2602c69:ProjectViewProjectNode" />
               <item name="2.27forum" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2.27forum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2.27forum" type="462c0819:PsiDirectoryNode" />
-              <item name="pageobjects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2.27forum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2.27forum" type="462c0819:PsiDirectoryNode" />
-              <item name="report" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2.27forum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2.27forum" type="462c0819:PsiDirectoryNode" />
               <item name="testsuite" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="2.27forum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2.27forum" type="462c0819:PsiDirectoryNode" />
-              <item name="tools" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -387,6 +335,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16666667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -547,11 +496,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testsuite/test_all.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="21" column="61" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="61" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="27">
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
         </state>
       </provider>
     </entry>

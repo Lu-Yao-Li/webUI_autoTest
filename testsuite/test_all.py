@@ -1,3 +1,5 @@
+import sys
+sys.path.append("E:/自动化软件测试/课堂练习/2.27forum")
 import unittest
 import HTMLTestRunner
 import os
