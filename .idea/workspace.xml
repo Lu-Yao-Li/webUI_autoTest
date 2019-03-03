@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cd98957-9eeb-4026-995d-d31c8ccf205c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/report/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/result.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,9 +15,10 @@
     <session id="-905954700">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.31" value="1" />
@@ -26,24 +28,24 @@
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.56" value="1" />
           <entry key="project.open.time.64" value="1" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="3" />
+          <entry key="html" value="8" />
           <entry key="ini" value="6" />
           <entry key="log" value="15" />
           <entry key="png" value="7" />
-          <entry key="py" value="155" />
+          <entry key="py" value="156" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="3" />
+          <entry key="HTML" value="8" />
           <entry key="Image" value="7" />
           <entry key="PLAIN_TEXT" value="21" />
-          <entry key="Python" value="155" />
+          <entry key="Python" value="156" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -61,14 +63,19 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testsuite/test_all.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+            <state relative-caret-position="54">
+              <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/report/result.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -147,22 +154,7 @@
             <path>
               <item name="2.27forum" type="b2602c69:ProjectViewProjectNode" />
               <item name="2.27forum" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2.27forum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2.27forum" type="462c0819:PsiDirectoryNode" />
-              <item name="logs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2.27forum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2.27forum" type="462c0819:PsiDirectoryNode" />
-              <item name="pageobjects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2.27forum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2.27forum" type="462c0819:PsiDirectoryNode" />
-              <item name="testsuite" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="2.27forum" type="b2602c69:ProjectViewProjectNode" />
@@ -185,6 +177,7 @@
       <recent name="E:\自动化软件测试\课堂练习\2.27forum\config" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\自动化软件测试\课堂练习\2.27forum\report" />
       <recent name="E:\自动化软件测试\课堂练习\2.27forum\tools" />
     </key>
   </component>
@@ -342,14 +335,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16666667" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16666667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.48006645" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3622951" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.47868854" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3622951" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -412,9 +404,6 @@
     <entry file="file://$PROJECT_DIR$/testsuite/test.py" />
     <entry file="file://$PROJECT_DIR$/testsuite/report/result.html" />
     <entry file="file://$PROJECT_DIR$/report/report/result.html" />
-    <entry file="file://$PROJECT_DIR$/report/result.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/logs/201903021637.log" />
     <entry file="file://$PROJECT_DIR$/logs/201903021655.log" />
     <entry file="file://$PROJECT_DIR$/logs/201903021658.log" />
@@ -449,12 +438,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img201903031425.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/201903031437.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/img201903031425.png" />
+    <entry file="file://$PROJECT_DIR$/img/201903031437.png" />
     <entry file="file://$PROJECT_DIR$/img/201903031445.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -465,9 +450,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="446">
           <caret line="76" column="42" selection-start-line="76" selection-start-column="42" selection-end-line="76" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#57#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -475,9 +457,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -499,9 +478,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
           <caret line="16" column="48" lean-forward="true" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#48#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -509,9 +485,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#48#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -519,9 +492,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -537,10 +507,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testsuite/test_all.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        <state relative-caret-position="54">
+          <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/result.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

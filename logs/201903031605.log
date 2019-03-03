@@ -1,0 +1,89 @@
+2019-03-03 16:05:30,640 - BrowserEngine- INFO - 你选择的是 Chrome 浏览器.
+2019-03-03 16:05:30,640 - BrowserEngine- INFO - 这个服务器的地址是:http://127.0.0.1/forum.php
+2019-03-03 16:05:35,455 - BrowserEngine- INFO - 开始谷歌浏览器
+2019-03-03 16:05:41,068 - BrowserEngine- INFO - 打开网址:http://127.0.0.1/forum.php
+2019-03-03 16:05:42,266 - BrowserEngine- INFO - 窗口最大化
+2019-03-03 16:05:42,274 - BrowserEngine- INFO - 隐形等待时间为10秒钟
+2019-03-03 16:05:42,539 - BasePage- INFO - 输入内容admin
+2019-03-03 16:05:42,865 - BasePage- INFO - 输入内容13333486358LY
+2019-03-03 16:05:43,015 - BasePage- INFO - click
+2019-03-03 16:05:51,938 - BasePage- INFO - click
+2019-03-03 16:05:52,417 - BasePage- INFO - 输入内容天气
+2019-03-03 16:05:53,362 - BasePage- INFO - 输入内容今天天气很好，适合出游
+2019-03-03 16:06:00,448 - BasePage- INFO - click
+2019-03-03 16:06:05,943 - BasePage- INFO - 输入内容玩的开心
+2019-03-03 16:06:06,979 - BasePage- INFO - click
+2019-03-03 16:06:10,845 - BasePage- INFO - click
+2019-03-03 16:06:18,488 - BrowserEngine- INFO - 关闭浏览器
+2019-03-03 16:06:18,489 - BrowserEngine- INFO - 你选择的是 Chrome 浏览器.
+2019-03-03 16:06:18,489 - BrowserEngine- INFO - 这个服务器的地址是:http://127.0.0.1/forum.php
+2019-03-03 16:06:21,418 - BrowserEngine- INFO - 开始谷歌浏览器
+2019-03-03 16:06:23,976 - BrowserEngine- INFO - 打开网址:http://127.0.0.1/forum.php
+2019-03-03 16:06:25,117 - BrowserEngine- INFO - 窗口最大化
+2019-03-03 16:06:25,122 - BrowserEngine- INFO - 隐形等待时间为10秒钟
+2019-03-03 16:06:25,363 - BasePage- INFO - 输入内容admin
+2019-03-03 16:06:25,594 - BasePage- INFO - 输入内容13333486358LY
+2019-03-03 16:06:25,722 - BasePage- INFO - click
+2019-03-03 16:06:29,437 - BasePage- INFO - click
+2019-03-03 16:06:29,740 - BasePage- INFO - click
+2019-03-03 16:06:30,636 - BasePage- INFO - click
+2019-03-03 16:06:31,940 - BasePage- INFO - click
+2019-03-03 16:06:32,257 - BasePage- INFO - click
+2019-03-03 16:06:35,277 - BasePage- INFO - 激活第1个窗口
+2019-03-03 16:06:36,754 - BasePage- INFO - 输入内容13333486358LY
+2019-03-03 16:07:01,875 - BasePage- INFO - click
+2019-03-03 16:07:02,928 - BasePage- INFO - click
+2019-03-03 16:07:05,328 - BasePage- INFO - click
+2019-03-03 16:07:08,298 - BasePage- INFO - click
+2019-03-03 16:07:11,318 - BasePage- INFO - 激活第1个窗口
+2019-03-03 16:07:12,766 - BasePage- INFO - click
+2019-03-03 16:07:13,231 - BasePage- INFO - click
+2019-03-03 16:07:15,979 - BasePage- INFO - 输入内容123123
+2019-03-03 16:07:16,193 - BasePage- INFO - 输入内容123123
+2019-03-03 16:07:21,660 - BasePage- INFO - click
+2019-03-03 16:07:25,369 - BasePage- INFO - click
+2019-03-03 16:07:25,671 - BasePage- INFO - 输入内容熬夜
+2019-03-03 16:07:26,173 - BasePage- INFO - 输入内容熬夜对身体不好，不要熬夜
+2019-03-03 16:07:28,220 - BasePage- INFO - click
+2019-03-03 16:07:31,533 - BasePage- INFO - 输入内容好的
+2019-03-03 16:07:31,799 - BasePage- INFO - click
+2019-03-03 16:07:34,200 - BrowserEngine- INFO - 关闭浏览器
+2019-03-03 16:07:34,202 - BrowserEngine- INFO - 你选择的是 Chrome 浏览器.
+2019-03-03 16:07:34,202 - BrowserEngine- INFO - 这个服务器的地址是:http://127.0.0.1/forum.php
+2019-03-03 16:07:37,738 - BrowserEngine- INFO - 开始谷歌浏览器
+2019-03-03 16:07:39,775 - BrowserEngine- INFO - 打开网址:http://127.0.0.1/forum.php
+2019-03-03 16:07:40,958 - BrowserEngine- INFO - 窗口最大化
+2019-03-03 16:07:40,962 - BrowserEngine- INFO - 隐形等待时间为10秒钟
+2019-03-03 16:07:41,458 - BasePage- INFO - 输入内容admin
+2019-03-03 16:07:41,689 - BasePage- INFO - 输入内容13333486358LY
+2019-03-03 16:07:41,839 - BasePage- INFO - click
+2019-03-03 16:07:45,084 - BasePage- INFO - 输入内容la
+2019-03-03 16:07:45,228 - BasePage- INFO - click
+2019-03-03 16:07:45,244 - BasePage- INFO - 激活第1个窗口
+2019-03-03 16:07:50,457 - BasePage- INFO - click
+2019-03-03 16:07:56,195 - BasePage- INFO - click
+2019-03-03 16:08:02,663 - BrowserEngine- INFO - 关闭浏览器
+2019-03-03 16:08:02,669 - BrowserEngine- INFO - 你选择的是 Chrome 浏览器.
+2019-03-03 16:08:02,669 - BrowserEngine- INFO - 这个服务器的地址是:http://127.0.0.1/forum.php
+2019-03-03 16:08:05,752 - BrowserEngine- INFO - 开始谷歌浏览器
+2019-03-03 16:08:08,132 - BrowserEngine- INFO - 打开网址:http://127.0.0.1/forum.php
+2019-03-03 16:08:09,310 - BrowserEngine- INFO - 窗口最大化
+2019-03-03 16:08:09,315 - BrowserEngine- INFO - 隐形等待时间为10秒钟
+2019-03-03 16:08:09,621 - BasePage- INFO - 输入内容admin
+2019-03-03 16:08:09,891 - BasePage- INFO - 输入内容13333486358LY
+2019-03-03 16:08:10,052 - BasePage- INFO - click
+2019-03-03 16:08:14,056 - BasePage- INFO - click
+2019-03-03 16:08:15,282 - BasePage- INFO - click
+2019-03-03 16:08:16,274 - BasePage- INFO - click
+2019-03-03 16:08:16,885 - BasePage- INFO - 输入内容Do you like apple
+2019-03-03 16:08:17,104 - BasePage- INFO - 输入内容Yes
+2019-03-03 16:08:17,252 - BasePage- INFO - 输入内容No
+2019-03-03 16:08:17,452 - BasePage- INFO - click
+2019-03-03 16:08:27,773 - BasePage- INFO - click
+2019-03-03 16:08:29,331 - BasePage- INFO - click
+2019-03-03 16:08:29,999 - VotePage- INFO - 第一个选项的名称是：1.  Yes
+2019-03-03 16:08:29,999 - VotePage- INFO - 投票比例是：(1)
+2019-03-03 16:08:29,999 - VotePage- INFO - 第二个选项的名称是：2.  No
+2019-03-03 16:08:29,999 - VotePage- INFO - 投票比例是：(0)
+2019-03-03 16:08:29,999 - VotePage- INFO - 投票的主题名称为：Do you like apple
+2019-03-03 16:08:42,478 - BrowserEngine- INFO - 关闭浏览器
