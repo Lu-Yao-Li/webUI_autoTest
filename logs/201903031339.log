@@ -1,0 +1,24 @@
+2019-03-03 13:39:41,291 - BrowserEngine- INFO - 你选择的是 Chrome 浏览器.
+2019-03-03 13:39:41,291 - BrowserEngine- INFO - 这个服务器的地址是:http://127.0.0.1/forum.php
+2019-03-03 13:39:44,551 - BrowserEngine- INFO - 开始谷歌浏览器
+2019-03-03 13:39:47,633 - BrowserEngine- INFO - 打开网址:http://127.0.0.1/forum.php
+2019-03-03 13:39:48,838 - BrowserEngine- INFO - 窗口最大化
+2019-03-03 13:39:48,847 - BrowserEngine- INFO - 隐形等待时间为10秒钟
+2019-03-03 13:39:49,186 - BasePage- INFO - 输入内容admin
+2019-03-03 13:39:49,458 - BasePage- INFO - 输入内容13333486358LY
+2019-03-03 13:39:49,619 - BasePage- INFO - click
+2019-03-03 13:39:53,537 - BasePage- INFO - click
+2019-03-03 13:39:55,073 - BasePage- INFO - click
+2019-03-03 13:39:55,971 - BasePage- INFO - click
+2019-03-03 13:39:56,296 - BasePage- INFO - 输入内容Do you like apple
+2019-03-03 13:39:56,659 - BasePage- INFO - 输入内容Yes
+2019-03-03 13:39:56,856 - BasePage- INFO - 输入内容No
+2019-03-03 13:39:57,095 - BasePage- INFO - click
+2019-03-03 13:40:17,631 - BasePage- ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-03-03 13:40:18,106 - BasePage- INFO - click
+2019-03-03 13:40:28,636 - BasePage- ERROR - Failed to clear is input box with 'NoneType' object has no attribute 'text'
+2019-03-03 13:40:39,238 - BasePage- ERROR - Failed to clear is input box with 'NoneType' object has no attribute 'text'
+2019-03-03 13:40:49,834 - BasePage- ERROR - Failed to clear is input box with 'NoneType' object has no attribute 'text'
+2019-03-03 13:41:00,417 - BasePage- ERROR - Failed to clear is input box with 'NoneType' object has no attribute 'text'
+2019-03-03 13:41:10,987 - BasePage- ERROR - Failed to clear is input box with 'NoneType' object has no attribute 'text'
+2019-03-03 13:41:13,422 - BrowserEngine- INFO - 关闭浏览器

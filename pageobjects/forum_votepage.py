@@ -38,7 +38,7 @@ class VotePage(BasePage):
         choose1=self.get_text(*self.vote_page_vote_choose1_percentage_loc)
         choose2=self.get_text(*self.vote_page_vote_choose2_percentage_loc)
         name=self.get_text(*self.vote_page_vote_name_loc)
-        logger.info("%s:%s=%s:%s"%name1%name2%choose1%choose2)
+        # logger.info("%s:%s=%s:%s"%name1%name2%choose1%choose2)
         logger.info("第一个选项的名称是：%s"%name1)
         logger.info("投票比例是：%s"%choose1)
         logger.info("第二个选项的名称是：%s"%name2)
