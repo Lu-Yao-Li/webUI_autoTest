@@ -38,7 +38,7 @@ class BrowserEngine():
         logger.info("窗口最大化")
         self.driver.implicitly_wait(10)
         logger.info("隐形等待时间为10秒钟")
-        self.driver.get("http://127.0.0.1/forum.php")
+        # self.driver.get(url)
         return self.driver
 
     def quit_browser(self):

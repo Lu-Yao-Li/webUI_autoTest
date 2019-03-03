@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/pageobjects/forum_homepage.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/pageobjects/forum_postpage.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/pageobjects/forum_votepage.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testsuite/test_all.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testsuite/test_delete.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testsuite/test_forum.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testsuite/test_vote.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tools/IEDriverServer.exe" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tools/chromedriver.exe" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tools/geckodriver.exe" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
