@@ -2,6 +2,7 @@ from testsuite.base_testcase import BaseTestCase
 from pageobjects.forum_homepage import HomePage
 from pageobjects.forum_postpage import PostPage
 from pageobjects.forum_votepage import VotePage
+from pageobjects.base import BasePage
 import time
 import unittest
 class VoteTest(BaseTestCase):

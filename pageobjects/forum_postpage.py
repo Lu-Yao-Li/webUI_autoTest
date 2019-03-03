@@ -18,6 +18,8 @@ class PostPage(BasePage):
         self.sendkeys(message,*self.post_page_input_mrbk_message_loc)
         time.sleep(3)
         self.click(*self.post_page_button_mrbk_posting_loc)
+        self.get_window_img()
     def reply(self,reply):#»ØÌû
         self.sendkeys(reply,*self.post_page_input_mrbk_reply_loc)
         self.click(*self.post_page_button_mrbk_reply_loc)
+        self.get_window_img()

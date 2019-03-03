@@ -1,0 +1,11 @@
+2019-03-03 15:12:43,933 - BrowserEngine- INFO - 你选择的是 Chrome 浏览器.
+2019-03-03 15:12:43,933 - BrowserEngine- INFO - 这个服务器的地址是:http://127.0.0.1/forum.php
+2019-03-03 15:12:46,530 - BrowserEngine- INFO - 开始谷歌浏览器
+2019-03-03 15:12:49,285 - BrowserEngine- INFO - 打开网址:http://127.0.0.1/forum.php
+2019-03-03 15:12:50,424 - BrowserEngine- INFO - 窗口最大化
+2019-03-03 15:12:50,424 - BrowserEngine- INFO - 隐形等待时间为10秒钟
+2019-03-03 15:12:50,612 - BasePage- INFO - 输入内容admin
+2019-03-03 15:12:50,793 - BasePage- INFO - 输入内容13333486358LY
+2019-03-03 15:12:50,900 - BasePage- INFO - click
+2019-03-03 15:12:53,903 - BasePage- ERROR - Failed to clear is input box with 'NoneType' object has no attribute 'text'
+2019-03-03 15:12:56,140 - BrowserEngine- INFO - 关闭浏览器

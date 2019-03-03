@@ -13,8 +13,6 @@ class SearchPage(BasePage):
         self.jihuo(1)
         time.sleep(4)
         self.click(*self.search_page_button_search_title_loc)
-    def return_text(self):
-        text=self.get_text(*self.search_page_button_search_title_loc)
-        return text
+
     def logout(self):
         self.click(*self.search_page_button_search_exit_loc)

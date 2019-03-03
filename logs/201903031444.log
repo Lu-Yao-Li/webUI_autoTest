@@ -1,0 +1,11 @@
+2019-03-03 14:44:33,019 - BrowserEngine- INFO - 你选择的是 Chrome 浏览器.
+2019-03-03 14:44:33,019 - BrowserEngine- INFO - 这个服务器的地址是:http://127.0.0.1/forum.php
+2019-03-03 14:44:35,628 - BrowserEngine- INFO - 开始谷歌浏览器
+2019-03-03 14:44:37,673 - BrowserEngine- INFO - 打开网址:http://127.0.0.1/forum.php
+2019-03-03 14:44:38,804 - BrowserEngine- INFO - 窗口最大化
+2019-03-03 14:44:38,804 - BrowserEngine- INFO - 隐形等待时间为10秒钟
+2019-03-03 14:44:38,976 - BasePage- INFO - 输入内容admin
+2019-03-03 14:44:39,144 - BasePage- INFO - 输入内容13333486358LY
+2019-03-03 14:44:39,241 - BasePage- INFO - click
+2019-03-03 14:44:42,376 - BasePage- INFO - click
+2019-03-03 14:44:55,226 - BrowserEngine- INFO - 关闭浏览器

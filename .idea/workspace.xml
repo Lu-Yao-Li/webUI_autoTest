@@ -2,7 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cd98957-9eeb-4026-995d-d31c8ccf205c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903022219.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903022220.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903022222.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903022223.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903022228.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903031139.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903031324.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903031327.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903031334.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903031335.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903031337.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903031338.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903031339.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903031342.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903031343.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903031346.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903031358.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903031359.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageobjects/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageobjects/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageobjects/forum_homepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageobjects/forum_homepage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageobjects/forum_postpage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageobjects/forum_postpage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageobjects/forum_searchpage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageobjects/forum_searchpage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/report/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsuite/test_delete.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuite/test_delete.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsuite/test_forum.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuite/test_forum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsuite/test_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuite/test_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsuite/test_vote.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuite/test_vote.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,37 +61,66 @@
           <entry key="html" value="3" />
           <entry key="ini" value="6" />
           <entry key="log" value="15" />
-          <entry key="py" value="135" />
+          <entry key="png" value="7" />
+          <entry key="py" value="154" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="3" />
+          <entry key="Image" value="7" />
           <entry key="PLAIN_TEXT" value="21" />
-          <entry key="Python" value="135" />
+          <entry key="Python" value="154" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="ini" value="140" />
-          <entry key="py" value="6834" />
+          <entry key="py" value="7218" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="140" />
-          <entry key="Python" value="6834" />
+          <entry key="Python" value="7218" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testsuite/test_all.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testsuite/test_search.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="16" column="48" lean-forward="true" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testsuite/test_forum.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
-              <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+              <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testsuite/test_delete.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="16" column="47" lean-forward="true" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -72,8 +128,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testsuite/test_vote.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+            <state relative-caret-position="-27">
+              <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
               <folding>
                 <element signature="e#0#48#0" expanded="true" />
               </folding>
@@ -100,16 +156,8 @@
         <option value="$PROJECT_DIR$/testsuite/test_forum_search.py" />
         <option value="$PROJECT_DIR$/testsuite/test_post.py" />
         <option value="$PROJECT_DIR$/testsuite/dd.py" />
-        <option value="$PROJECT_DIR$/pageobjects/forum_postpage.py" />
-        <option value="$PROJECT_DIR$/pageobjects/forum_homepage.py" />
-        <option value="$PROJECT_DIR$/pageobjects/forum_searchpage.py" />
         <option value="$PROJECT_DIR$/pageobjects/forum_deletepage.py" />
         <option value="$PROJECT_DIR$/testsuite/test.py" />
-        <option value="$PROJECT_DIR$/pageobjects/base.py" />
-        <option value="$PROJECT_DIR$/testsuite/test_vote.py" />
-        <option value="$PROJECT_DIR$/testsuite/test_search.py" />
-        <option value="$PROJECT_DIR$/testsuite/test_delete.py" />
-        <option value="$PROJECT_DIR$/testsuite/test_forum.py" />
         <option value="$PROJECT_DIR$/framework/logger.py" />
         <option value="$PROJECT_DIR$/framework/util.py" />
         <option value="$PROJECT_DIR$/framework/search_by_ddt.py" />
@@ -119,10 +167,18 @@
         <option value="$PROJECT_DIR$/config/config.ini" />
         <option value="$PROJECT_DIR$/testsuite/test_all.py" />
         <option value="$PROJECT_DIR$/pageobjects/forum_votepage.py" />
+        <option value="$PROJECT_DIR$/pageobjects/base.py" />
+        <option value="$PROJECT_DIR$/pageobjects/forum_postpage.py" />
+        <option value="$PROJECT_DIR$/pageobjects/forum_searchpage.py" />
+        <option value="$PROJECT_DIR$/testsuite/test_vote.py" />
+        <option value="$PROJECT_DIR$/pageobjects/forum_homepage.py" />
+        <option value="$PROJECT_DIR$/testsuite/test_search.py" />
+        <option value="$PROJECT_DIR$/testsuite/test_forum.py" />
+        <option value="$PROJECT_DIR$/testsuite/test_delete.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="189" />
     <option name="y" value="47" />
     <option name="width" value="958" />
@@ -157,7 +213,12 @@
             <path>
               <item name="2.27forum" type="b2602c69:ProjectViewProjectNode" />
               <item name="2.27forum" type="462c0819:PsiDirectoryNode" />
-              <item name="logs" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2.27forum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2.27forum" type="462c0819:PsiDirectoryNode" />
+              <item name="pageobjects" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="2.27forum" type="b2602c69:ProjectViewProjectNode" />
@@ -180,12 +241,12 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\自动化软件测试\课堂练习\2.27forum\tools" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\自动化软件测试\课堂练习\2.27forum\testsuite" />
       <recent name="E:\自动化软件测试\课堂练习\2.27forum\config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\自动化软件测试\课堂练习\2.27forum\tools" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -200,29 +261,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test_all">
-    <configuration name="test_all" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="2.27forum" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsuite" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testsuite/test_all.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for test_delete.DeleteTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Unittests for test_forum.FomerSearch.test_fomur_search">
+    <configuration name="Unittests for test_forum.FomerSearch" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="2.27forum" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -232,11 +272,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_delete.DeleteTest&quot;" />
+      <option name="_new_target" value="&quot;test_forum.FomerSearch&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_delete.DeleteTest.test_delete" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for test_forum.FomerSearch.test_fomur_search" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="2.27forum" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,7 +286,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_delete.DeleteTest.test_delete&quot;" />
+      <option name="_new_target" value="&quot;test_forum.FomerSearch.test_fomur_search&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -264,7 +304,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in test_vote.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in test_forum.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="2.27forum" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -274,24 +314,38 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/testsuite/test_vote.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testsuite/test_forum.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_search.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="2.27forum" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsuite" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testsuite/test_search.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Unittests for test_delete.DeleteTest.test_delete" />
+      <item itemvalue="Python tests.Unittests for test_forum.FomerSearch" />
+      <item itemvalue="Python tests.Unittests in test_forum.py" />
+      <item itemvalue="Python tests.Unittests for test_forum.FomerSearch.test_fomur_search" />
       <item itemvalue="Python tests.Unittests for test_search.SearchTest.test_search" />
-      <item itemvalue="Python tests.Unittests in test_vote.py" />
-      <item itemvalue="Python tests.Unittests for test_delete.DeleteTest" />
-      <item itemvalue="Python.test_all" />
+      <item itemvalue="Python tests.Unittests in test_search.py" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test_all" />
-        <item itemvalue="Python tests.Unittests in test_vote.py" />
-        <item itemvalue="Python tests.Unittests for test_delete.DeleteTest.test_delete" />
-        <item itemvalue="Python tests.Unittests for test_delete.DeleteTest" />
+        <item itemvalue="Python tests.Unittests for test_forum.FomerSearch.test_fomur_search" />
+        <item itemvalue="Python tests.Unittests in test_search.py" />
         <item itemvalue="Python tests.Unittests for test_search.SearchTest.test_search" />
+        <item itemvalue="Python tests.Unittests in test_forum.py" />
+        <item itemvalue="Python tests.Unittests for test_forum.FomerSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -309,47 +363,47 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_test_forum_FomerSearch_test_fomur_search - 2019.03.02 at 22h 20m 23s.xml">
-      <configuration name="Unittests for test_forum.FomerSearch.test_fomur_search" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_forum_FomerSearch_test_fomur_search - 2019.03.02 at 22h 23m 07s.xml">
-      <configuration name="Unittests for test_forum.FomerSearch.test_fomur_search" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_forum_FomerSearch_test_fomur_search - 2019.03.03 at 13h 35m 22s.xml">
-      <configuration name="Unittests for test_forum.FomerSearch.test_fomur_search" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_delete_DeleteTest_test_delete - 2019.03.03 at 13h 36m 55s.xml">
-      <configuration name="Unittests for test_delete.DeleteTest.test_delete" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_forum_FomerSearch_test_fomur_search - 2019.03.03 at 13h 37m 53s.xml">
-      <configuration name="Unittests for test_forum.FomerSearch.test_fomur_search" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_search_SearchTest_test_search - 2019.03.03 at 13h 38m 33s.xml">
+    <history-entry file="Unittests_for_test_search_SearchTest_test_search - 2019.03.03 at 15h 03m 20s.xml">
       <configuration name="Unittests for test_search.SearchTest.test_search" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_vote_py - 2019.03.03 at 13h 41m 13s.xml">
-      <configuration name="Unittests in test_vote.py" configurationId="tests" />
+    <history-entry file="Unittests_for_test_forum_FomerSearch_test_fomur_search - 2019.03.03 at 15h 12m 56s.xml">
+      <configuration name="Unittests for test_forum.FomerSearch.test_fomur_search" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_delete_DeleteTest - 2019.03.03 at 13h 43m 22s.xml">
-      <configuration name="Unittests for test_delete.DeleteTest" configurationId="tests" />
+    <history-entry file="Unittests_for_test_forum_FomerSearch_test_fomur_search - 2019.03.03 at 15h 14m 32s.xml">
+      <configuration name="Unittests for test_forum.FomerSearch.test_fomur_search" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_delete_DeleteTest_test_delete - 2019.03.03 at 13h 44m 53s.xml">
-      <configuration name="Unittests for test_delete.DeleteTest.test_delete" configurationId="tests" />
+    <history-entry file="Unittests_for_test_forum_FomerSearch_test_fomur_search - 2019.03.03 at 15h 15m 32s.xml">
+      <configuration name="Unittests for test_forum.FomerSearch.test_fomur_search" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_vote_py - 2019.03.03 at 13h 47m 16s.xml">
-      <configuration name="Unittests in test_vote.py" configurationId="tests" />
+    <history-entry file="Unittests_for_test_forum_FomerSearch_test_fomur_search - 2019.03.03 at 15h 15m 55s.xml">
+      <configuration name="Unittests for test_forum.FomerSearch.test_fomur_search" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_search_SearchTest_test_search - 2019.03.03 at 15h 17m 31s.xml">
+      <configuration name="Unittests for test_search.SearchTest.test_search" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_search_SearchTest_test_search - 2019.03.03 at 15h 18m 06s.xml">
+      <configuration name="Unittests for test_search.SearchTest.test_search" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_search_SearchTest_test_search - 2019.03.03 at 15h 18m 32s.xml">
+      <configuration name="Unittests for test_search.SearchTest.test_search" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_search_py - 2019.03.03 at 15h 19m 06s.xml">
+      <configuration name="Unittests in test_search.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_forum_FomerSearch_test_fomur_search - 2019.03.03 at 15h 20m 04s.xml">
+      <configuration name="Unittests for test_forum.FomerSearch.test_fomur_search" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16666667" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16666667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.48006645" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.0" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.078688525" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -401,13 +455,6 @@
     <entry file="file://$PROJECT_DIR$/logs/201902272041.log" />
     <entry file="file://$PROJECT_DIR$/logs/201902272048.log" />
     <entry file="file://$PROJECT_DIR$/logs/201902281359.log" />
-    <entry file="file://$PROJECT_DIR$/pageobjects/forum_postpage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="22" column="53" lean-forward="true" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pageobjects/forum_deletepage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
@@ -417,38 +464,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/logs/201902281748.log" />
     <entry file="file://$PROJECT_DIR$/testsuite/test.py" />
-    <entry file="file://$PROJECT_DIR$/pageobjects/forum_searchpage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="7" column="79" selection-start-line="7" selection-start-column="79" selection-end-line="7" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pageobjects/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1823">
-          <caret line="71" column="68" selection-start-line="71" selection-start-column="68" selection-end-line="71" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testsuite/report/result.html" />
     <entry file="file://$PROJECT_DIR$/report/report/result.html" />
     <entry file="file://$PROJECT_DIR$/report/result.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/framework/logger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/logs/201903021637.log" />
     <entry file="file://$PROJECT_DIR$/logs/201903021655.log" />
     <entry file="file://$PROJECT_DIR$/logs/201903021658.log" />
-    <entry file="file://$PROJECT_DIR$/pageobjects/forum_homepage.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/testsuite/base_testcase.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -473,27 +496,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testsuite/test_forum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testsuite/test_search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testsuite/test_delete.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pageobjects/forum_votepage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -501,20 +503,96 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/testsuite/test_all.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img201903031425.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/201903031437.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/201903031445.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/logger.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="76" column="42" selection-start-line="76" selection-start-column="42" selection-end-line="76" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/forum_searchpage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/forum_homepage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/forum_postpage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/testsuite/test_vote.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        <state relative-caret-position="-27">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
           <folding>
             <element signature="e#0#48#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testsuite/test_all.py">
+    <entry file="file://$PROJECT_DIR$/testsuite/test_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="16" column="48" lean-forward="true" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuite/test_forum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuite/test_delete.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="16" column="47" lean-forward="true" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

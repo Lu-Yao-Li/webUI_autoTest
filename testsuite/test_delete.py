@@ -1,6 +1,7 @@
 from pageobjects.forum_deletepage import DeletePage
 from pageobjects.forum_homepage import HomePage
 from testsuite.base_testcase import BaseTestCase
+from pageobjects.base import BasePage
 import time
 import unittest
 class DeleteTest(BaseTestCase):

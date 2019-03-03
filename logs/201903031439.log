@@ -1,0 +1,17 @@
+2019-03-03 14:39:50,843 - BrowserEngine- INFO - 你选择的是 Chrome 浏览器.
+2019-03-03 14:39:50,843 - BrowserEngine- INFO - 这个服务器的地址是:http://127.0.0.1/forum.php
+2019-03-03 14:39:53,372 - BrowserEngine- INFO - 开始谷歌浏览器
+2019-03-03 14:39:56,055 - BrowserEngine- INFO - 打开网址:http://127.0.0.1/forum.php
+2019-03-03 14:39:57,190 - BrowserEngine- INFO - 窗口最大化
+2019-03-03 14:39:57,190 - BrowserEngine- INFO - 隐形等待时间为10秒钟
+2019-03-03 14:39:57,416 - BasePage- INFO - 输入内容admin
+2019-03-03 14:39:57,632 - BasePage- INFO - 输入内容13333486358LY
+2019-03-03 14:39:57,754 - BasePage- INFO - click
+2019-03-03 14:40:01,302 - BasePage- INFO - click
+2019-03-03 14:40:01,595 - BasePage- INFO - 输入内容天气
+2019-03-03 14:40:01,860 - BasePage- INFO - 输入内容今天天气很好，适合出游
+2019-03-03 14:40:06,273 - BasePage- INFO - click
+2019-03-03 14:40:11,445 - BasePage- INFO - 输入内容玩的开心
+2019-03-03 14:40:11,886 - BasePage- INFO - click
+2019-03-03 14:40:15,195 - BasePage- INFO - click
+2019-03-03 14:40:22,458 - BrowserEngine- INFO - 关闭浏览器

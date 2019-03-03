@@ -6,6 +6,7 @@ class HomePage(BasePage):
     home_page_input_submit_username_loc=(By.ID,"ls_username")
     home_page_input_submit_pwd_loc=(By.NAME,"password")
     home_page_button_submit_loc=(By.CSS_SELECTOR,".fastlg_l>button")
+    home_page_admin_loc=(By.CSS_SELECTOR,".vwmy a")
 
     #µã»÷ÍË³ö
     home_page_button_exit_loc=(By.XPATH,"//p/a[7]")

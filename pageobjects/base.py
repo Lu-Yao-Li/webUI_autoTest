@@ -1,10 +1,9 @@
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from framework.logger import Logger
-import unittest
-from selenium import webdriver
 import os.path
-from selenium.webdriver.common.by import By
+import time
+
 logger=Logger(logger="BasePage").getlog()
 class BasePage(object):
     # search_page_button_search_title_loc = (By.CSS_SELECTOR, ".xs3 strong font")  # 标题
@@ -70,3 +69,14 @@ class BasePage(object):
             return el.text
         except Exception as e:
             logger.error("Failed to clear is input box with %s" % e)
+    def get_window_img(self):
+        file_path=os.path.dirname(os.path.abspath("."))+'/img/'
+        if not os.path.exists(file_path):
+            os.mkdir(file_path)
+            rq=time.strftime("%Y%m%d%H%M",time.localtime(time.time()))
+            screen_name=file_path+rq+'.png'
+            try:
+                self.driver.get_screenshot_as_file(screen_name)
+                logger.info("有截图且保存路径是/img/")
+            except Exception as e:
+                logger.error("%s截屏失败"%e)

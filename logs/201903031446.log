@@ -1,0 +1,34 @@
+2019-03-03 14:46:23,395 - BrowserEngine- INFO - 你选择的是 Chrome 浏览器.
+2019-03-03 14:46:23,395 - BrowserEngine- INFO - 这个服务器的地址是:http://127.0.0.1/forum.php
+2019-03-03 14:46:26,972 - BrowserEngine- INFO - 开始谷歌浏览器
+2019-03-03 14:46:30,066 - BrowserEngine- INFO - 打开网址:http://127.0.0.1/forum.php
+2019-03-03 14:46:31,201 - BrowserEngine- INFO - 窗口最大化
+2019-03-03 14:46:31,201 - BrowserEngine- INFO - 隐形等待时间为10秒钟
+2019-03-03 14:46:31,379 - BasePage- INFO - 输入内容admin
+2019-03-03 14:46:31,569 - BasePage- INFO - 输入内容13333486358LY
+2019-03-03 14:46:31,672 - BasePage- INFO - click
+2019-03-03 14:46:35,375 - BasePage- INFO - click
+2019-03-03 14:46:35,600 - BasePage- INFO - 输入内容天气
+2019-03-03 14:46:35,873 - BasePage- INFO - 输入内容今天天气很好，适合出游
+2019-03-03 14:46:38,993 - BasePage- INFO - click
+2019-03-03 14:46:44,232 - BasePage- INFO - 输入内容玩的开心
+2019-03-03 14:46:44,341 - BasePage- INFO - click
+2019-03-03 14:46:53,425 - BasePage- ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-03-03 14:46:53,655 - BrowserEngine- INFO - 你选择的是 Chrome 浏览器.
+2019-03-03 14:46:53,655 - BrowserEngine- INFO - 这个服务器的地址是:http://127.0.0.1/forum.php
+2019-03-03 14:46:56,969 - BrowserEngine- INFO - 开始谷歌浏览器
+2019-03-03 14:46:59,957 - BrowserEngine- INFO - 打开网址:http://127.0.0.1/forum.php
+2019-03-03 14:47:00,851 - BrowserEngine- INFO - 关闭浏览器
+2019-03-03 14:47:01,099 - BrowserEngine- INFO - 窗口最大化
+2019-03-03 14:47:01,099 - BrowserEngine- INFO - 隐形等待时间为10秒钟
+2019-03-03 14:47:01,332 - BasePage- INFO - 输入内容admin
+2019-03-03 14:47:01,514 - BasePage- INFO - 输入内容13333486358LY
+2019-03-03 14:47:01,673 - BasePage- INFO - click
+2019-03-03 14:47:05,283 - BasePage- INFO - click
+2019-03-03 14:47:05,629 - BasePage- INFO - 输入内容天气
+2019-03-03 14:47:05,879 - BasePage- INFO - 输入内容今天天气很好，适合出游
+2019-03-03 14:47:10,918 - BasePage- INFO - click
+2019-03-03 14:47:16,109 - BasePage- INFO - 输入内容玩的开心
+2019-03-03 14:47:16,663 - BasePage- INFO - click
+2019-03-03 14:47:20,086 - BasePage- INFO - click
+2019-03-03 14:47:27,355 - BrowserEngine- INFO - 关闭浏览器
